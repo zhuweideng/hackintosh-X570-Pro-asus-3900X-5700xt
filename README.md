@@ -82,3 +82,5 @@ Case:
 
 [BIOS 更新](https://www.asus.com.cn/Motherboards/PRIME-X570-P/HelpDesk_BIOS/)
 
+[B站视频](https://www.bilibili.com/video/av78803022)
+
