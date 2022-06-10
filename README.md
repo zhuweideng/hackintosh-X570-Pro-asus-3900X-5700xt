@@ -1,15 +1,17 @@
 
 
 
-Prozessor: AMD Ryzen 9 3900X
+Prozessor: AMD Ryzen 9 5950X
 Cooler: Custom Water Cooling
 Motherboard: Asus X570  (BIOS 2.60)
 WIFI/BT: Broadcom BCM94360NG
 Memory: 
 Storage: 
-Video Card: 5700XT
+Video Card: 6600XT
 Power Supply: 
 Case: 
+
+[macOS Ventura](https://forum.amd-osx.com/index.php?threads/johns-asus-x570-i-gaming-efi-works-on-most-asus-x570-b550-motherboards.2854/)
 
 ## Software
 
